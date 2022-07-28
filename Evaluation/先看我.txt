@@ -1,0 +1,9 @@
+打开test_evaluation.m测试所有图像指标
+
+ir ，vis和fused图像命名需一致
+
+
+这个是孙彬同学 整理的  
+
+主函数： test_evaluation
+
